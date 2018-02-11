@@ -7,9 +7,9 @@ We started this project by using Indico's text analysis API for personas for Pyt
 
 
 Made @ Hackbeanpot 2018 by:
-Kelsey Esposito
-Olivia Petrillo
-Caitlin Rossi
-Willa Shiomos
-Anjali Thakkar
+Kelsey Esposito,
+Olivia Petrillo,
+Caitlin Rossi,
+Willa Shiomos,
+Anjali Thakkar,
 Sarah Witt
